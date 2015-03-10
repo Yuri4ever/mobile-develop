@@ -34,7 +34,7 @@ ios8下已经支持0.5px了
 
 **缺点：最终代码量较多且不支持圆角** 
 
-###3. :after + scale(**推荐**)
+###4. :after + scale(**推荐**)
 ```
 .border-1px{
     position: relative;
